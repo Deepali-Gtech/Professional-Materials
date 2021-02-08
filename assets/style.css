@@ -1,3 +1,63 @@
-body{
+body {
+   
+    background-color: rgb(221, 203, 195);
+   
+}
+
+   
+
+header{
+    justify-content: center;
     text-align: center;
 }
+#links {
+justify-self: top;;
+
+}
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+
+
+  
+/*\\ #links{
+    padding-left: 10%;
+}
+.sidenav {
+    height: 100%;
+    width: 200;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(76, 68, 68);
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.sidenav a {
+    padding: 150px 20px 6px 66px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+ aside {
+     padding-bottom: 160%;
+ } */
