@@ -6,21 +6,22 @@ body {
 
    
 
-header{
+main{
     justify-content: center;
     text-align: center;
 }
 #links {
 justify-self: top;;
-
+position: relative;
 }
+
 a:link {
-    color: red;
+    color: aqua;
   }
   
   /* visited link */
   a:visited {
-    color: green;
+    color: aqua;
   }
   
   /* mouse over link */
@@ -32,15 +33,16 @@ a:link {
   a:active {
     color: blue;
 
-
+  }
   
-/*\\ #links{
-    padding-left: 10%;
-}
-.sidenav {
+  footer{
+      color: aqua;
+  }
+
+/* .sidenav {
     height: 100%;
     width: 200;
-    position:fixed;
+    position: relative;;
     z-index: 1;
     top: 0;
     left: 0;
@@ -49,7 +51,7 @@ a:link {
     padding-top: 20px;
 }
 .sidenav a {
-    padding: 150px 20px 6px 66px;
+    padding: 50px 20px 6px 66px;
     text-decoration: none;
     font-size: 25px;
     color: #818181;
@@ -60,4 +62,4 @@ a:link {
   }
  aside {
      padding-bottom: 160%;
- } */
+ }  */
