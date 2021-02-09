@@ -1,7 +1,7 @@
 body {
    
-    background-color: rgb(221, 203, 195);
-   
+    background-color: rgb(73, 141, 150);
+  
 }
 
    
@@ -10,56 +10,11 @@ main{
     justify-content: center;
     text-align: center;
 }
-#links {
-justify-self: top;;
-position: relative;
-}
 
-a:link {
-    color: aqua;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: aqua;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: hotpink;
-  }
-  
-  /* selected link */
-  a:active {
-    color: blue;
 
-  }
+ 
   
   footer{
-      color: aqua;
+      color: rgb(77, 121, 121);
   }
 
-/* .sidenav {
-    height: 100%;
-    width: 200;
-    position: relative;;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: rgb(76, 68, 68);
-    overflow-x: hidden;
-    padding-top: 20px;
-}
-.sidenav a {
-    padding: 50px 20px 6px 66px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-  }
-  .sidenav a:hover {
-    color: #f1f1f1;
-  }
- aside {
-     padding-bottom: 160%;
- }  */
