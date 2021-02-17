@@ -20,4 +20,13 @@ main{
   footer{
       color: rgb(77, 121, 121);
   }
+#workday{
+    font-size: large;
+}
+#weatherDashboard{
+    font-size: large;
+}
 
+#feedMe{
+    font-size: large;
+}
